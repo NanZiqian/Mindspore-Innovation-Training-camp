@@ -1,0 +1,549 @@
+src: Did you always know you wanted to be a writer ? 
+target: No , I didn't . I was an english teacher for about five years , but by the time I was thirty , I decided I want a fresh challenge . 
+predict:i think so . [SEP] 
+src: No , I didn't . I was an english teacher for about five years , but by the time I was thirty , I decided I want a fresh challenge . 
+target: How did you start writing ? 
+predict:well , i know what you mean . [SEP] 
+src: How did you start writing ? 
+target: I started writing margin articles for fun , and eventually was asked to write a book , so I was pretty lucky . 
+predict:i was in the bank at the end of the year . [SEP] 
+src: I started writing margin articles for fun , and eventually was asked to write a book , so I was pretty lucky . 
+target: Are you writing a book now ? 
+predict:i ' m glad you like it . [SEP] 
+src: Are you writing a book now ? 
+target: Yes , it's about a group of friends living in a foreign country , and all the strange experiences they have 
+predict:yes , i ' m . [SEP] 
+src: Yes , it's about a group of friends living in a foreign country , and all the strange experiences they have 
+target: Sounds interesting . 
+predict:i ' m glad you like it . [SEP] 
+src:Good evening , sir . Are you Mr Jim Stewart from the States ? 
+target: Ah , yes , that's right . 
+predict:yes , i ' m . [SEP] 
+src: Ah , yes , that's right . 
+target: Glad to meet you , Mr Stewart . I'm the guide from Pacific Tour Agency . My name is Zhang Hua . 
+predict:i ' m sorry , sir . i ' m afraid we ' re fully booked . [SEP] 
+src: Glad to meet you , Mr Stewart . I'm the guide from Pacific Tour Agency . My name is Zhang Hua . 
+target: Hello , I was just looking for the guide . 
+predict:hello , mr . smith . i ' m mr . smith . i ' m calling to see you 
+src: Hello , I was just looking for the guide . 
+target: I'm always at your service , sir . By the way , did you have a pleasant trip ? 
+predict:i ' m sorry , sir . i ' m afraid you ' ve got the wrong number . [SEP] 
+src: I'm always at your service , sir . By the way , did you have a pleasant trip ? 
+target: Not bad . But I've made too many flights these days . I could hardly remember how many take-offs and landings I've been through these three days . I think we all feel a bit tired . 
+predict:no , thanks . i ' m afraid i ' m here . [SEP] 
+src: Not bad . But I've made too many flights these days . I could hardly remember how many take-offs and landings I've been through these three days . I think we all feel a bit tired . 
+target: Well , shall we go to the hotel right now ? I've already made a reservation for you . 
+predict:i ' ll have to get you a new one . [SEP] 
+src: Well , shall we go to the hotel right now ? I've already made a reservation for you . 
+target: Wonderful . I'm eager to take a sauna as soon as possible . 
+predict:i ' m afraid not . i ' m busy . [SEP] 
+src: Wonderful . I'm eager to take a sauna as soon as possible . 
+target: So we must get you to the hotel as soon as possible . I hope to see you refreshed and revitalized tomorrow morning , as we are going to visit the Great Wall . 
+predict:ok , i ' ll take it . [SEP] 
+src: So we must get you to the hotel as soon as possible . I hope to see you refreshed and revitalized tomorrow morning , as we are going to visit the Great Wall . 
+target: I am sure we will . Actually , we are looking forward to seeing the great wonder . 
+predict:i ' m glad you ' re all right . [SEP] 
+src: I am sure we will . Actually , we are looking forward to seeing the great wonder . 
+target: Come this way , please . The coach is waiting outside . 
+predict:i hope you ' ll enjoy your stay . [SEP] 
+src: Come this way , please . The coach is waiting outside . 
+target: Fine , let's go . 
+predict:ok , i ' ll take it . [SEP] 
+src:Julia , burglaries in our town have been on the wing . 
+target: Why do you say that ? 
+predict:i ' m sorry . i ' ll have to cancel it . [SEP] 
+src: Why do you say that ? 
+target: I heard that a robbery happened in our town several days ago . The robbers ripped off a car in broad daylight . 
+predict:i don ' t know . [SEP] 
+src: I heard that a robbery happened in our town several days ago . The robbers ripped off a car in broad daylight . 
+target: Thank God , we haven't encountered a burglar . I hope that our house is secure against burglary . 
+predict:that ' s great . [SEP] 
+src: Thank God , we haven't encountered a burglar . I hope that our house is secure against burglary . 
+target: I am worrying about it too . I want to install a security door . 
+predict:i ' m glad you like it . [SEP] 
+src: I am worrying about it too . I want to install a security door . 
+target: Is the security door useful ? 
+predict:i ' m sorry . we ' ll make it . [SEP] 
+src: Is the security door useful ? 
+target: Yes , I think so . The security door is so firm that nobody can break in . 
+predict:yes , it ' s . [SEP] 
+src: Yes , I think so . The security door is so firm that nobody can break in . 
+target: I totally agree with you . In this way I won't be afraid of the burglar if you are away . 
+predict:i ' m sorry . i ' m afraid i ' m not . [SEP] 
+src: I totally agree with you . In this way I won't be afraid of the burglar if you are away . 
+target: OK , I will do it right now . 
+predict:i ' m afraid not . i ' m in a hurry . [SEP] 
+src:Ahahah ! What is that thing on your couch ! It just moved ! 
+target: Did you think it wasn't real ? That's my pet lizard . 
+predict:i ' m gonna get it . [SEP] 
+src: Did you think it wasn't real ? That's my pet lizard . 
+target: You have a pet lizard ? Somehow I never would have imagined that . 
+predict:i ' m afraid not . but i ' m not much of it . [SEP] 
+src: You have a pet lizard ? Somehow I never would have imagined that . 
+target: His name is Grunt . Come closer and I'll properly introduce you . 
+predict:i ' m sorry , sir . i ' ll get it . [SEP] 
+src: His name is Grunt . Come closer and I'll properly introduce you . 
+target: Does it bite or scratch ? 
+predict:thank you . [SEP] 
+src: Does it bite or scratch ? 
+target: No , he's perfectly harmless . And he's not afraid of strangers either . Here , hold him . 
+predict:no , it ' s not . [SEP] 
+src: No , he's perfectly harmless . And he's not afraid of strangers either . Here , hold him . 
+target: Wow . He's heavy ! And his skin feels really cool . 
+predict:ok , i ' ll get it . [SEP] 
+src: Wow . He's heavy ! And his skin feels really cool . 
+target: Stick around and you'll get to know him better . He has a very unusual personality . 
+predict:i ' m sorry . he ' s not in a meeting right now . [SEP] 
+src:You are going to work as my office secretary from next Monday . Right now I want to show you the rules of our company . 
+target: Thank you for your instruction . I really need to know the rules before I play the game , so I can know more about our company . 
+predict:thank you . [SEP] 
+src: Thank you for your instruction . I really need to know the rules before I play the game , so I can know more about our company . 
+target: The working hours are from 9:00 to 11:30 in the morning and from 1:30 to 5:30 in the afternoon . Make sure never to be late or absent . Every time you should use the employee card to show you are present whenever you come into the company . 
+predict:ok , i ' ll try . [SEP] 
+src: The working hours are from 9:00 to 11:30 in the morning and from 1:30 to 5:30 in the afternoon . Make sure never to be late or absent . Every time you should use the employee card to show you are present whenever you come into the company . 
+target: Set your heart at rest . I keep this in my mind . 
+predict:i ' ll make it . [SEP] 
+src: Set your heart at rest . I keep this in my mind . 
+target: In my opinion , a secretary must be familiar with office routine and try to do some things by you . This is the filing cabinet and any document or file you may need . And you should file these documents in alphabetical order . 
+predict:ok , i ' ll take it . [SEP] 
+src:Hi , do you know a place that sells cheap cashmere sweaters ? 
+target: An outlet carries cheap cashmere sweaters . 
+predict:yes , we do . [SEP] 
+src: An outlet carries cheap cashmere sweaters . 
+target: That's a good idea ! 
+predict:how much is it ? [SEP] 
+src: That's a good idea ! 
+target: I've always had good luck at outlets . 
+predict:i ' ll take it . [SEP] 
+src: I've always had good luck at outlets . 
+target: Thank you for the suggestion . 
+predict:i ' m happy to hear that . [SEP] 
+src: Thank you for the suggestion . 
+target: I hope you find a nice sweater . 
+predict:you ' re welcome . [SEP] 
+src:What're you going to wear today ? 
+target: I like the new shirt . 
+predict:i ' m going to buy a new shirt . [SEP] 
+src: I like the new shirt . 
+target: You'd better tuck in your shirt . 
+predict:what kind of music do you like ? [SEP] 
+src: You'd better tuck in your shirt . 
+target: Oh , I prefer it loose 
+predict:i ' m afraid i ' m not . [SEP] 
+src:Are you a good driver ? 
+target: Yes , I'm rather good at driving . 
+predict:i ' m sorry , i ' m . i ' m a little tired . [SEP] 
+src: Yes , I'm rather good at driving . 
+target: I need you to teach me how to drive . 
+predict:what kind of food do you like ? [SEP] 
+src: I need you to teach me how to drive . 
+target: Yes , but do you have your learner's permit ? 
+predict:i ' m afraid you ' re too . [SEP] 
+src: Yes , but do you have your learner's permit ? 
+target: Yes , I have it . 
+predict:no , i don ' t think so . [SEP] 
+src: Yes , I have it . 
+target: Have you ever driven a car before ? 
+predict:do you have any other questions ? [SEP] 
+src: Have you ever driven a car before ? 
+target: I drove a car before , but only once . 
+predict:no , i haven ' t . [SEP] 
+src: I drove a car before , but only once . 
+target: Are you aware of all the controls in the car ? 
+predict:did you get a bus driver ? [SEP] 
+src: Are you aware of all the controls in the car ? 
+target: I already know all of them . 
+predict:i ' m afraid not . [SEP] 
+src: I already know all of them . 
+target: When would you like me to start teaching you ? 
+predict:i know . [SEP] 
+src: When would you like me to start teaching you ? 
+target: When do you have time ? 
+predict:i ' d like to know if you ' re going to be late . [SEP] 
+src: When do you have time ? 
+target: Call me tomorrow , and we'll get started . 
+predict:i ' m going to be there . [SEP] 
+src:How far do we have to go ? 
+target: About 50 miles . 
+predict:about nine . [SEP] 
+src: About 50 miles . 
+target: The traffic is not very heavy on this high way , is it ? So I'm sure we'll make it . 
+predict:ok , i ' ll take it . [SEP] 
+src: The traffic is not very heavy on this high way , is it ? So I'm sure we'll make it . 
+target: No , but we'Ve got a hurry . It will be the rush hour soon . 
+predict:no , it ' s the last one . [SEP] 
+src: No , but we'Ve got a hurry . It will be the rush hour soon . 
+target: Don't worry . There's plenty of time yet . 
+predict:i ' m afraid we can ' t . [SEP] 
+src: Don't worry . There's plenty of time yet . 
+target: But it's Friday today . This road is always jam packed during the weekend , isn't it ? 
+predict:i know . [SEP] 
+src: But it's Friday today . This road is always jam packed during the weekend , isn't it ? 
+target: Right . 
+predict:yes , it ' s the first one . [SEP] 
+src:I need some flowers for my wife because it is her birthday . 
+target: We have some fresh red roses . 
+predict:i ' m afraid you ' ll be able to help him . [SEP] 
+src: We have some fresh red roses . 
+target: How much are the roses ? 
+predict:how much is it ? [SEP] 
+src: How much are the roses ? 
+target: Twenty dollars per dozen . 
+predict:$ 15 . [SEP] 
+src: Twenty dollars per dozen . 
+target: That sounds like a good deal . 
+predict:that ' s too much . [SEP] 
+src: That sounds like a good deal . 
+target: Yes , that is today's sale price . 
+predict:i ' ll take it . [SEP] 
+src: Yes , that is today's sale price . 
+target: I'll take a dozen . 
+predict:how much is it ? [SEP] 
+src: I'll take a dozen . 
+target: Is there anything else you'd like to get ? 
+predict:how many ? [SEP] 
+src: Is there anything else you'd like to get ? 
+target: No , the roses will be fine . 
+predict:i ' d like to see a movie with a friend . [SEP] 
+src: No , the roses will be fine . 
+target: I'm sure your wife will love them . 
+predict:ok , i ' ll take it . [SEP] 
+src:Could you do me a favour ? Please give me some confidential information . 
+target: Don't put me on the spot . You know , I can't do that . 
+predict:sure , here you are . [SEP] 
+src:Well , what's the matter with you ? 
+target: I've got a sore throat and my chest hurts . 
+predict:i ' m not sure . [SEP] 
+src: I've got a sore throat and my chest hurts . 
+target: Have you got a headache ? 
+predict:how about your hair ##cut ? [SEP] 
+src: Have you got a headache ? 
+target: Yes , I ache all over . 
+predict:no , i haven ' t . [SEP] 
+src: Yes , I ache all over . 
+target: Are you coughing much ? 
+predict:what ' s the matter ? [SEP] 
+src: Are you coughing much ? 
+target: A little bit . 
+predict:i ' m afraid not . [SEP] 
+src: A little bit . 
+target: Now , let me listen to your chest . Ah , you have a temperature . Breathe deeply . That's right . Well , don't worry , it's only a throat infection . There's nothing wrong with your lungs . And how is your appetite ? 
+predict:i ' m afraid i ' ll get a taxi . [SEP] 
+src: Now , let me listen to your chest . Ah , you have a temperature . Breathe deeply . That's right . Well , don't worry , it's only a throat infection . There's nothing wrong with your lungs . And how is your appetite ? 
+target: It's gone completely . 
+predict:it ' s not bad . [SEP] 
+src: It's gone completely . 
+target: Show me your tongue , please . All right , stay in bed and keep yourself warm . I'll prescribe some pills for you to take . 
+predict:i ' m afraid you ' ll be able to get the bread . [SEP] 
+src: Show me your tongue , please . All right , stay in bed and keep yourself warm . I'll prescribe some pills for you to take . 
+target: Is that all doctor ? 
+predict:ok , i ' ll take it . [SEP] 
+src: Is that all doctor ? 
+target: Yes . You'll be better in a few days , I'm sure . 
+predict:yes , it ' s her . [SEP] 
+src: Yes . You'll be better in a few days , I'm sure . 
+target: Thank you , doctor . Goodbye . 
+predict:i ' ll be there in a minute . [SEP] 
+src: Thank you , doctor . Goodbye . 
+target: Goodbye . 
+predict:goodbye . [SEP] 
+src:May I help you ? 
+target: Can you recommend some popular tour ? 
+predict:i ' m looking for a pair of shoes . [SEP] 
+src: Can you recommend some popular tour ? 
+target: How long is your journey ? 
+predict:sure . what kind of room do you want ? [SEP] 
+src: How long is your journey ? 
+target: Two weeks and I would like to go abroad . 
+predict:i ' m not sure . [SEP] 
+src: Two weeks and I would like to go abroad . 
+target: The popular tour of the season is a 14 - days ' sightseeing to Venice . Are you interested in that city ? 
+predict:what kind of food do you have ? [SEP] 
+src: The popular tour of the season is a 14 - days ' sightseeing to Venice . Are you interested in that city ? 
+target: Yes , of course . I will book the tour . 
+predict:yes , i ' m afraid not . [SEP] 
+src:Good morning . What can I do for you , sir ? 
+target: Good morning . I'd like to have a haircut . 
+predict:i ' d like to buy a new fridge . [SEP] 
+src: Good morning . I'd like to have a haircut . 
+target: Very well . Please sit down here . Do you want me to cut your hair very close ? 
+predict:what kind of room would you like ? [SEP] 
+src: Very well . Please sit down here . Do you want me to cut your hair very close ? 
+target: Please cut the sides shorter , but not so much at the back . 
+predict:yes , please . [SEP] 
+src: Please cut the sides shorter , but not so much at the back . 
+target: It's such a hot season , isn't it ? May I suggest thinning out the top ? 
+predict:ok , i ' ll take it . [SEP] 
+src: It's such a hot season , isn't it ? May I suggest thinning out the top ? 
+target: That's a good idea . But leave the front as it is now . 
+predict:no , it ' s the latest . [SEP] 
+src: That's a good idea . But leave the front as it is now . 
+target: ( several minutes later ) Now it's done . Is it satisfactory ? 
+predict:i ' m glad you like it . [SEP] 
+src: ( several minutes later ) Now it's done . Is it satisfactory ? 
+target: Very good , thanks . 
+predict:no , it ' s just a few minutes . [SEP] 
+src: Very good , thanks . 
+target: Anything else I can do for you , sir ? 
+predict:you ' re welcome . [SEP] 
+src: Anything else I can do for you , sir ? 
+target: No , thanks . 
+predict:i ' d like to check in , please . [SEP] 
+src:I'd like to book a ticket to Shanghai . 
+target: When would you like to fly ? 
+predict:what time would you like to get there ? [SEP] 
+src: When would you like to fly ? 
+target: As soon as possible . Do you have a flight tomorrow ? 
+predict:i ' d like to see a doctor . [SEP] 
+src: As soon as possible . Do you have a flight tomorrow ? 
+target: I will check , please hold on . Sorry to say that flight is all booked up . Can I book you for the 3rd of September ? 
+predict:i ' m afraid not . [SEP] 
+src: I will check , please hold on . Sorry to say that flight is all booked up . Can I book you for the 3rd of September ? 
+target: That will be OK . 
+predict:yes , i ' m afraid not . i ' m afraid we ' re fully booked . [SEP] 
+src: That will be OK . 
+target: How many people are there in your party ? 
+predict:i ' ll take it . [SEP] 
+src: How many people are there in your party ? 
+target: Just me this time . 
+predict:there are two people . [SEP] 
+src: Just me this time . 
+target: What class will you fly ? First class ? Business class ? Or economy class ? 
+predict:ok , please fill out this form . [SEP] 
+src: What class will you fly ? First class ? Business class ? Or economy class ? 
+target: Economy class will be fine . 
+predict:i ' ll be there in a couple of days . [SEP] 
+src: Economy class will be fine . 
+target: Round trip or one way trip ? 
+predict:i ' ll take it . [SEP] 
+src: Round trip or one way trip ? 
+target: I would like to book a one way trip ticket . 
+predict:one way . [SEP] 
+src: I would like to book a one way trip ticket . 
+target: How will you pay , cash or charge ? 
+predict:what time would you like to get ? [SEP] 
+src: How will you pay , cash or charge ? 
+target: I would like to pay by check . 
+predict:i ' ll pay by check . [SEP] 
+src: I would like to pay by check . 
+target: I am sorry , we do not accept checks . 
+predict:ok , please fill out this form . [SEP] 
+src: I am sorry , we do not accept checks . 
+target: I'll pay by charge card then . 
+predict:i ' m sorry , sir . we accept credit cards . [SEP] 
+src: I'll pay by charge card then . 
+target: Great . What name shall I put the reservation under ? 
+predict:ok , i ' ll take it . [SEP] 
+src: Great . What name shall I put the reservation under ? 
+target: Lucy Green . 
+predict:it ' s the first size forty - five . [SEP] 
+src: Lucy Green . 
+target: You are booked , Ms . Green . 
+predict:what ' s your name ? [SEP] 
+src: You are booked , Ms . Green . 
+target: Thanks a lot . 
+predict:i ' m sorry , i ' m afraid i ' m afraid i ' m afraid we ' ll 
+src: Thanks a lot . 
+target: It's a pleasure . 
+predict:you ' re welcome . [SEP] 
+src:My , it looks too queer ! 
+target: Yes , it is a queer drug , a tonic only available in China . Many ancient Chinese medicine journals have recorded that it can cure such ailments as night sweat , pain at loins and knees and anaemia . It has no side effect . 
+predict:i ' m sorry , sir , sir , i ' m afraid we ' ll be able to make 
+src: Yes , it is a queer drug , a tonic only available in China . Many ancient Chinese medicine journals have recorded that it can cure such ailments as night sweat , pain at loins and knees and anaemia . It has no side effect . 
+target: Great ! Will you please tell me how to take it ? 
+predict:i see . i ' ll just have to make a doctor . [SEP] 
+src: Great ! Will you please tell me how to take it ? 
+target: Yes , madam . Fill 3 or 5 pieces of Cordyceps into a cleaned and chopped open duck's head and cook with the whole duck . Or stew Cordyceps with chicken . 
+predict:i ' m sorry , sir . i ' m afraid i ' m going to get a new one 
+src: Yes , madam . Fill 3 or 5 pieces of Cordyceps into a cleaned and chopped open duck's head and cook with the whole duck . Or stew Cordyceps with chicken . 
+target: That sounds very interesting ! 
+predict:how much do you want to make ? [SEP] 
+src: That sounds very interesting ! 
+target: Please don't eat turnip and garlic when taking this medicine . 
+predict:i ' ll take it . [SEP] 
+src: Please don't eat turnip and garlic when taking this medicine . 
+target: Thank you very much . 
+predict:ok , i ' ll take it . [SEP] 
+src:I'm looking for a necklace for my girl friend as a birthday present . 
+target: You've come to the right store . We've got a beautiful and wide selection of necklaces for you to choose from . 
+predict:i ' m sorry , sir . i ' m afraid i ' m not . [SEP] 
+src: You've come to the right store . We've got a beautiful and wide selection of necklaces for you to choose from . 
+target: I like that one over there . Can you show it to me ? 
+predict:i ' m glad to hear that . [SEP] 
+src: I like that one over there . Can you show it to me ? 
+target: Do you mean the exquisite golden necklace ? 
+predict:that ' s a good idea . [SEP] 
+src: Do you mean the exquisite golden necklace ? 
+target: Exactly . How much do you want for it ? 
+predict:no , i don ' t think so . [SEP] 
+src: Exactly . How much do you want for it ? 
+target: It costs only two thousand yuan . 
+predict:i like it . it ' s a bit too hot . [SEP] 
+src: It costs only two thousand yuan . 
+target: Is it made of pure gold ? 
+predict:how much is it ? [SEP] 
+src: Is it made of pure gold ? 
+target: Yes , it is , and the lustre will never fade out . 
+predict:no , it ' s a soft one . [SEP] 
+src: Yes , it is , and the lustre will never fade out . 
+target: I'll take it . Please wrap it up for me and give me the receipt . 
+predict:i ' m afraid it ' s too . [SEP] 
+src:Thank you very much for your dinner . 
+target: Thank you for your coming . 
+predict:you are welcome . [SEP] 
+src: Thank you for your coming . 
+target: My wife is expecting me at home . I must be off now.So long ! 
+predict:you ' re welcome . [SEP] 
+src: My wife is expecting me at home . I must be off now.So long ! 
+target: So long ! 
+predict:i ' m glad you like it . [SEP] 
+src:Good afternoon . 
+target: Hello . This is Jones . I'd like to speak to Mr . Chen . 
+predict:good morning . [SEP] 
+src: Hello . This is Jones . I'd like to speak to Mr . Chen . 
+target: Speaking . 
+predict:i ' m sorry , but he ' s out . [SEP] 
+src: Speaking . 
+target: I'd like to discuss the new order with you . Would you like to have lunch together at Garden Hotel next Tuesday ? 
+predict:hello , this is monica . [SEP] 
+src: I'd like to discuss the new order with you . Would you like to have lunch together at Garden Hotel next Tuesday ? 
+target: Let me check my diary . Er . I'm afraid I can't make Tuesday . I've got to go to Beijing for a conference . I'll come back on Thursday . 
+predict:yes , i ' d like to see a movie . [SEP] 
+src: Let me check my diary . Er . I'm afraid I can't make Tuesday . I've got to go to Beijing for a conference . I'll come back on Thursday . 
+target: That's a pity . Does Friday suit you ? 
+predict:ok , sir . i ' ll call you later . [SEP] 
+src: That's a pity . Does Friday suit you ? 
+target: Yeah , that would be fine . What time ? 
+predict:yes , it ' s my wife ' s birthday today . [SEP] 
+src: Yeah , that would be fine . What time ? 
+target: Is 12 o'clock convenient for you ? 
+predict:i ' m going to get a new car . [SEP] 
+src: Is 12 o'clock convenient for you ? 
+target: Yeah , that's fine . Next Friday at 12 at Garden Hotel . I'll look forward to it . 
+predict:i ' m afraid not . [SEP] 
+src:Are you ready for your first driving lesson ? 
+target: Yes . Which one is the brake again ? 
+predict:yes , i ' m going to buy a new shirt . [SEP] 
+src: Yes . Which one is the brake again ? 
+target: The pedal on your left is the brake and the one on your right is the gas . 
+predict:the one on the left is right . [SEP] 
+src: The pedal on your left is the brake and the one on your right is the gas . 
+target: I'm glad this car is an automatic . I don't like having to change gears . 
+predict:i ' m afraid i can ' t . [SEP] 
+src: I'm glad this car is an automatic . I don't like having to change gears . 
+target: Automatics are very simple to drive . The first thing you should do is put your seat belt on . 
+predict:i ' m sorry , sir . we ' ll have to cancel it . [SEP] 
+src: Automatics are very simple to drive . The first thing you should do is put your seat belt on . 
+target: You should also put yours on . you never know what will happen with me in the driver's seat ! 
+predict:ok , thank you . [SEP] 
+src: You should also put yours on . you never know what will happen with me in the driver's seat ! 
+target: Very funny . Next you should check your side mirrors and your rear view mirror . Can you see out of them ? 
+predict:i ' m sorry , sir . i ' ll get it . [SEP] 
+src: Very funny . Next you should check your side mirrors and your rear view mirror . Can you see out of them ? 
+target: I can't see anything out of the side mirror on your side of the car . Could you move it forward a bit , please ? 
+predict:i ' m afraid not . i ' m in a hurry . [SEP] 
+src: I can't see anything out of the side mirror on your side of the car . Could you move it forward a bit , please ? 
+target: How's that ? 
+predict:i ' ll just go and see the doctor . [SEP] 
+src: How's that ? 
+target: That's better . Now what ? 
+predict:it ' s a bit too big . [SEP] 
+src: That's better . Now what ? 
+target: Check your petrol situation . 
+predict:i ' m going to buy a new car . [SEP] 
+src: Check your petrol situation . 
+target: The tank is almost empty . I guess I'll drive to the petrol station to fill it up . 
+predict:thank you . [SEP] 
+src: The tank is almost empty . I guess I'll drive to the petrol station to fill it up . 
+target: That's a good idea . Put your keys in the ignition , start it up , put the car in reserve , wait for the road to be clear , and then back out of the driveway . 
+predict:ok , i ' ll take it . [SEP] 
+src: That's a good idea . Put your keys in the ignition , start it up , put the car in reserve , wait for the road to be clear , and then back out of the driveway . 
+target: I got it . Don't worry . I'll get you there in one piece . 
+predict:ok , i ' ll take it . [SEP] 
+src: I got it . Don't worry . I'll get you there in one piece . 
+target: Remember , no honking this time . The horn is only for emergencies ! 
+predict:thanks . [SEP] 
+src: Remember , no honking this time . The horn is only for emergencies ! 
+target: Why does that cop car behind me have its red lights on ? 
+predict:i ' m sorry , sir , sir , i ' m afraid i ' m not . i ' 
+src:Please file all the reports for me . 
+target: OK . Would you like to file them according to dates ? 
+predict:ok , thank you . [SEP] 
+src: OK . Would you like to file them according to dates ? 
+target: Yes . Will you also make copies and file them using both methods ? 
+predict:yes , i ' d like to know if you ' re interested in a large order . [SEP] 
+src: Yes . Will you also make copies and file them using both methods ? 
+target: Yes , I will . 
+predict:yes , i ' m afraid not . [SEP] 
+src: Yes , I will . 
+target: Good . Can you please also list all the documents in those old files ? 
+predict:what ' s your name , please ? [SEP] 
+src: Good . Can you please also list all the documents in those old files ? 
+target: When do you expect it to be finished ? 
+predict:yes , we ' ll be there in a minute . [SEP] 
+src: When do you expect it to be finished ? 
+target: Before next Friday . 
+predict:i ' m going to be there on a few minutes . [SEP] 
+src: Before next Friday . 
+target: All right . 
+predict:ok , please tell me your name and address . [SEP] 
+src:What are your strengths and weaknesses ? 
+target: I have just left school , but I am well acquainted with office work . 
+predict:i ' m not sure . [SEP] 
+src: I have just left school , but I am well acquainted with office work . 
+target: Why are you qualified for this position ? 
+predict:what are you going to do ? [SEP] 
+src: Why are you qualified for this position ? 
+target: Since leaving school , I have attended typewriting and shorthand classes , and have now attained a speed of fifty and ninety works respectively . 
+predict:i ' m not sure . [SEP] 
+src: Since leaving school , I have attended typewriting and shorthand classes , and have now attained a speed of fifty and ninety works respectively . 
+target: What can you contribute to the position of a market analyst ? 
+predict:ok , i ' ll take it . [SEP] 
+src: What can you contribute to the position of a market analyst ? 
+target: I know how to gather and summarize information from the Intent , which is an essential skill for market analysis . 
+predict:i ' m not sure . [SEP] 
+src: I know how to gather and summarize information from the Intent , which is an essential skill for market analysis . 
+target: What job-related skills do you have ? 
+predict:i know what you mean , i ' m not sure about the position . [SEP] 
+src: What job-related skills do you have ? 
+target: I am a good accountant and have a thorough knowledge of the English language . 
+predict:i have a headache . [SEP] 
+src:Stand back from the door , please . There're plenty of seats in the rear . 
+target: What's the fare , please ? 
+predict:ok , thank you . [SEP] 
+src: What's the fare , please ? 
+target: One yuan fifty cents . Drop it in the box here . 
+predict:it ' s 35 . [SEP] 
+src: One yuan fifty cents . Drop it in the box here . 
+target: Is this the right bus to Zizhuyuan Park ? 
+predict:here it is . [SEP] 
+src: Is this the right bus to Zizhuyuan Park ? 
+target: Take a No . 2 . This is No . 12 . 
+predict:yes , it is . [SEP] 
+src: Take a No . 2 . This is No . 12 . 
+target: But somebody told me this was the right bus to take . I want to go to Tian'anmen Square , you see . 
+predict:ok . i ' ll take it . [SEP] 
+src: But somebody told me this was the right bus to take . I want to go to Tian'anmen Square , you see . 
+target: Then this is the right bus . Move on , please . You're holding up the passengers . Tian'anmen Square is the last stop but one . 
+predict:i ' m sorry . i ' m afraid i ' m not . i ' m afraid i ' 
+src: Then this is the right bus . Move on , please . You're holding up the passengers . Tian'anmen Square is the last stop but one . 
+target: Would you please let me know when we get there ? 
+predict:ok , i ' ll take it . [SEP] 
+src:Are you familiar with American-styled accounting ? 
+target: I am afraid not . I haven't worked in an American company so far . 
+predict:yes , i am . [SEP] 
+src: I am afraid not . I haven't worked in an American company so far . 
+target: What are the most fundamental concepts underlying the accounting process ? 
+predict:i know . but i am very busy . [SEP] 
+src: What are the most fundamental concepts underlying the accounting process ? 
+target: The first is accounting entity , and the second is going concern . The third is measuring unit . The fourth is accounting period , and the fifth is objectivity . 
+predict:the skin is a large - player , but the skin is good . [SEP] 
+src:Excuse me . Who is the person responsible for handling complaints here ? I would like to make a few complaints . 
+target: I am the manager here . You can complain to me . How may I help you ? 
+predict:i ' m sorry , sir . we ' re all out of this . [SEP] 
+src: I am the manager here . You can complain to me . How may I help you ? 
+target: Here is the thing . I was woke up by strange noises of the telephone several times last night . Even I unplugged it , it wouldn't stop beeping . I am also not satisfied with the housekeeping service in my room . So I want to change to a cleaner and quieter room . 
+predict:i ' m sorry , i ' m afraid i ' m not . i ' m here to see 
+src: Here is the thing . I was woke up by strange noises of the telephone several times last night . Even I unplugged it , it wouldn't stop beeping . I am also not satisfied with the housekeeping service in my room . So I want to change to a cleaner and quieter room . 
+target: I apologize for everything disturbing you . We will give another room to you right now . Please wait a moment . 
+predict:i see . i ' ll call you a few minutes later . [SEP] 
